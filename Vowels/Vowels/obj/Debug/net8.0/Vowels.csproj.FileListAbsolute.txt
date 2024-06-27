@@ -1,0 +1,14 @@
+C:\Windows\temp\Projetos\SlothBytes\Vowels\Vowels\bin\Debug\net8.0\Vowels.exe
+C:\Windows\temp\Projetos\SlothBytes\Vowels\Vowels\bin\Debug\net8.0\Vowels.deps.json
+C:\Windows\temp\Projetos\SlothBytes\Vowels\Vowels\bin\Debug\net8.0\Vowels.runtimeconfig.json
+C:\Windows\temp\Projetos\SlothBytes\Vowels\Vowels\bin\Debug\net8.0\Vowels.dll
+C:\Windows\temp\Projetos\SlothBytes\Vowels\Vowels\bin\Debug\net8.0\Vowels.pdb
+C:\Windows\temp\Projetos\SlothBytes\Vowels\Vowels\obj\Debug\net8.0\Vowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\temp\Projetos\SlothBytes\Vowels\Vowels\obj\Debug\net8.0\Vowels.AssemblyInfoInputs.cache
+C:\Windows\temp\Projetos\SlothBytes\Vowels\Vowels\obj\Debug\net8.0\Vowels.AssemblyInfo.cs
+C:\Windows\temp\Projetos\SlothBytes\Vowels\Vowels\obj\Debug\net8.0\Vowels.csproj.CoreCompileInputs.cache
+C:\Windows\temp\Projetos\SlothBytes\Vowels\Vowels\obj\Debug\net8.0\Vowels.dll
+C:\Windows\temp\Projetos\SlothBytes\Vowels\Vowels\obj\Debug\net8.0\refint\Vowels.dll
+C:\Windows\temp\Projetos\SlothBytes\Vowels\Vowels\obj\Debug\net8.0\Vowels.pdb
+C:\Windows\temp\Projetos\SlothBytes\Vowels\Vowels\obj\Debug\net8.0\Vowels.genruntimeconfig.cache
+C:\Windows\temp\Projetos\SlothBytes\Vowels\Vowels\obj\Debug\net8.0\ref\Vowels.dll
